@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="AdapterMode.cs" />
     <Compile Include="builder.cs" />
+    <Compile Include="csharpVesion.cs" />
     <Compile Include="FactoryMode.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
