@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace designDemo
 {
+    //[LoaderOptimization()]   ---
     public partial class Form1 : Form
     {
+        volatile int a = 20;
         public Form1()
         {
             InitializeComponent();

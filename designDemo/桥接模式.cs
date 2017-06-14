@@ -35,6 +35,8 @@ namespace designMode
         public abstract void On();
         public abstract void Off();
         public abstract void ChangeChannel();
+        //public void set()
+        //{ string.Intern}
     }
 
     //public class Chanhong:TV
