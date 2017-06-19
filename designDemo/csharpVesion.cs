@@ -26,6 +26,8 @@ namespace designDemo
 
 
         }
+        void getId()
+        { }
     }
    public class student
     {

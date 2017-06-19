@@ -62,6 +62,7 @@
     <Compile Include="singleTon.cs" />
     <Compile Include="桥接模式.cs" />
     <Compile Include="笔记相关.cs" />
+    <Compile Include="观察者模式.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
